@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> This repository is private and property of Imagiaura. Do not disclose code or any inside information of this project.
+> This is a public README for the bot, this is only for information related to the bot. 
 
 <img width="886" alt="imagiaura banner" src="https://github.com/user-attachments/assets/83dddb19-aa6a-407f-a4e2-1ac6356599ab">
 
