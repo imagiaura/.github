@@ -1,5 +1,6 @@
 > [!IMPORTANT]
-> This is a public README for the bot, this is only for information related to the bot. 
+> This is a public README for the bot, this is only for information related to the bot.
+> The bot is NOT officially released and is being worked on!
 
 <img width="886" alt="imagiaura banner" src="https://github.com/user-attachments/assets/83dddb19-aa6a-407f-a4e2-1ac6356599ab">
 
