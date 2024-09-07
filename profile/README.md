@@ -21,7 +21,7 @@ GenTokens can be used to purchase generations, and the AD's (along with the opti
 - [x] Economy System to purchase with real money 
 - [x] Purchase GenTokens
 - [ ] Better error handling
-- [ ] Update ``/imagine`` to work when bot is installed as a user bot.
+- ~~[ ] Update ``/imagine`` to work when bot is installed as a user bot.~~ Scrapped
 - [ ] Add image upscaler
 - [ ] Produce Variation (On smaller models, like Schenll & SDXL, this feature will cost GenTokens)
 - [ ] Image BG remover
