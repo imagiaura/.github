@@ -23,7 +23,7 @@ GenTokens can be used to purchase generations, and the AD's (along with the opti
 - [ ] Better error handling
 - ~~[ ] Update ``/imagine`` to work when bot is installed as a user bot.~~ Scrapped
 - [ ] Add image upscaler
-- [ ] Produce Variation (On smaller models, like Schenll & SDXL, this feature will cost GenTokens)
+- [ ] Produce Variation (On smaller models, like Schnell & SDXL, this feature will cost GenTokens)
 - [ ] Image BG remover
 - [ ] Prompt Enhancer
 - [ ] Image Zoomout and Zoomin generative fill.
