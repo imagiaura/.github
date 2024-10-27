@@ -20,12 +20,12 @@ GenTokens can be used to purchase generations, and the AD's (along with the opti
 ## Planned Features
 - [x] Economy System to purchase with real money 
 - [x] Purchase GenTokens
-- [ ] Better error handling
+- [x] Better error handling
 - ~~[ ] Update ``/imagine`` to work when bot is installed as a user bot.~~ Scrapped
-- [ ] Add image upscaler
+- [x] Add image upscaler
 - [ ] Produce Variation (On smaller models, like Schnell & SDXL, this feature will cost GenTokens)
-- [ ] Image BG remover
-- [ ] Prompt Enhancer
+- ~~[ ] Image BG remover~~ Scrapped
+- [x] Prompt Enhancer
 - [ ] Image Zoomout and Zoomin generative fill.
-- [ ] Add FLUX.Pro model for 30 Tokens per Gen.
+- [ ] Add FLUX1.1 Pro model for 30 Tokens per Gen. (Possibly going to be scrapped due to not being open sourced)
 - [ ] Add advanced options. (Steps, negative prompt, sampler and seed as optional parameters in slash command.)
