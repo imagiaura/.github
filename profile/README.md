@@ -11,9 +11,10 @@ The bot is free, however user's will be required to skip ad's in form of "Link S
 GenTokens can be used to purchase generations, and the AD's (along with the optional real-life purchases) allow us to keep the bot free for free user's, while providing high quality features to paid subscribers and at a cost of certain ammount of GenTokens to free user's.
 
 ## Current Available Txt-TO-Img Models
-- FLUX.1 Schnell ~8-15s
-- FLUX.1 Based Realism LORA ~30-40s
-- SDXL 1.0 ~5-8s
+- FLUX Small ~8-15s
+- FLUX Creative ~30-40s
+- SDXL (and 5+ amazing LoRA's) ~5-8s
+- Imaigaura's Custom FLUX LoRA ~25s
 
 *"~" Signifies Average time from API inference to image sent by the bot.*
 
@@ -26,6 +27,7 @@ GenTokens can be used to purchase generations, and the AD's (along with the opti
 - [ ] Produce Variation (On smaller models, like Schnell & SDXL, this feature will cost GenTokens)
 - ~~[ ] Image BG remover~~ Scrapped
 - [x] Prompt Enhancer
+- [x] Prompt Personalization
 - [ ] Image Zoomout and Zoomin generative fill.
 - [ ] Add FLUX1.1 Pro model for 30 Tokens per Gen. (Possibly going to be scrapped due to not being open sourced)
 - [ ] Add advanced options. (Steps, negative prompt, sampler and seed as optional parameters in slash command.)
